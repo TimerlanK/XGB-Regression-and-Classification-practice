@@ -5,5 +5,5 @@
 Regression case <br>
 Boston Dataset
 
-Classification case
+Classification case <br>
 Diabetes Dataset
